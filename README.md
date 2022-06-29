@@ -1,7 +1,9 @@
 ## FizzBuzz Game
 
 ![GitHub repo status](https://img.shields.io/badge/status-archived-yellowgreen?style=flat)
+![GitHub license](https://img.shields.io/github/license/sheikhartin/fizzbuzz)
 ![GitHub contributors](https://img.shields.io/github/contributors/sheikhartin/fizzbuzz)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sheikhartin/fizzbuzz)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sheikhartin/fizzbuzz)
 
 One of the zero-player games that is not interesting if you don't write code! Just kidding, you can play this game with your friends and have a fun time.
