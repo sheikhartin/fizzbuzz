@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(int argc, char const *argv[]) {
+int main(int argc, char* argv[]) {
   int rng_start;
   int rng_end;
   std::cout << "Enter the start and end of the range: ";
